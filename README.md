@@ -1,4 +1,4 @@
-##Typing Speed Tester
+# Typing Speed Tester
 
 A simple Python program that calculates typing speed (WPM) and accuracy.
 
